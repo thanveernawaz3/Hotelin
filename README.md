@@ -5,7 +5,7 @@ This website is built for a Web Designing Competition conducted by Dept of Infor
 
 This website was built with HTML & CSS
 
-The Topic that i have choose is 
+The Topic that i have choosen is 
 
 I am manager of a 5 Star Hotel. I would like to have a website which describes
 various amenities like restaurant, various stays (couple, group, etc.,) and
